@@ -1,0 +1,2 @@
+# AutoSortth-Master
+สแกนคัดแยก
